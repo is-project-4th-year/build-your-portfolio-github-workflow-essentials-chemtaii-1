@@ -10,7 +10,7 @@
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-https://vercel.com/chemtaiis-projects/my-portfolio
+https://my-portfolio-topaz-nine-56.vercel.app/
 
 ## 3. Learnings from the Git Crash Program
 

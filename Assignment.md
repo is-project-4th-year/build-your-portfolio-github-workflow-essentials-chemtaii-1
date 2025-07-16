@@ -71,3 +71,5 @@ https://my-portfolio-topaz-nine-56.vercel.app/
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+- <img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/b6d5a8a2-7f40-412b-9649-4be794703568" />
+

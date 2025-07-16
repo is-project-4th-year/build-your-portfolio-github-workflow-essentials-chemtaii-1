@@ -14,33 +14,28 @@ https://vercel.com/chemtaiis-projects/my-portfolio
 
 ## 3. Learnings from the Git Crash Program
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
-### 1. GitHub Pages
+### a. GitHub Pages
 
 **Expectation**: I thought GitHub Pages was only for hosting static portfolio sites with complex setup steps I wouldn’t understand.
 **Reality**: It was actually simple! Just pushed my project to a specific branch, enabled GitHub Pages, and my site was live.
 **Impact**: I hosted my portfolio project publicly and shared it with peers and mentors without needing a paid domain or server.
 
----
 
-### 2. Pull Requests
+### b. Pull Requests
 
 **Expectation**: I assumed pull requests were only for big teams reviewing each other’s code—irrelevant for solo projects.
 **Reality**: Even in my own projects, they helped me review changes carefully before merging, which avoided a lot of bugs.
 **Impact**: I used pull requests to merge features into my main branch—like my contact form—after confirming they worked properly.
 
----
 
-### 3. Merge Conflicts
+### c. Merge Conflicts
 
 **Expectation**: I honestly thought I’d avoid merge conflicts completely—they sounded like a nightmare only advanced developers face.
 **Reality**: I ran into one on day two! But resolving it wasn’t so bad with VS Code—it even taught me how different parts of my project connected.
 **Impact**: I got more confident with debugging and learned to read my code more closely before pushing.
 
----
 
-### 4. Commit Messages
+### d. Commit Messages
 
 **Expectation**: I thought commit messages didn’t matter much—just something to type quickly like “done” or “update”.
 **Reality**: Meaningful commit messages helped me track my progress and understand what I changed, especially when I looked back days later.
@@ -48,15 +43,6 @@ For each one, mention:
 
 
 ## 4. Screenshots of Key GitHub Features
-
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
 
 ### A. Milestones and Issues
 
